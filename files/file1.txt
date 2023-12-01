@@ -1,0 +1,1 @@
+NodeJS is one of the most used technologies for server applications. It uses JavaScript language to work. In this section, you will learn about NodeJS and it's pros and cons.
